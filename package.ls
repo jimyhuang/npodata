@@ -21,3 +21,5 @@ devDependencies:
   'iconv-lite': '0.2.x'
   config: '0.4.33'
   'js-yaml': '2.1.3'
+  moment: "~2.1.0"
+  jade: "~0.35"
